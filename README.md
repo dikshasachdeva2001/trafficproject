@@ -355,3 +355,5 @@ Recognition of fantastic contributors to the project
 <sub>Developer note: see [translation guide](changedetectionio/translations/README.md) for i18n template patterns and workflow.</sub>
 
 - Constantin Hong https://github.com/Constantin1489
+#   t r a f f i c p r o j e c t  
+ 
